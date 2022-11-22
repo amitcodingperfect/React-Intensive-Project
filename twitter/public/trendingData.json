@@ -1,0 +1,32 @@
+[
+    {
+     "header":"Trending In Sports",
+     "text":"Cricket",
+     "tweetCount":"30k Tweets"
+    },
+    {
+        "header":"Trending In India",
+        "text":"Election",
+        "tweetCount":"30k Tweets"
+    },
+    {
+        "header":"Trending In Business",
+        "text":"Elon Musk",
+        "tweetCount":"20k Tweets"
+    },
+    {
+        "header":"Trending In USA",
+        "text":"Elon Musk",
+        "tweetCount":"30k Tweets"
+    },
+    {
+        "header":"Trending In India",
+        "text":"Sachin Tendulkar",
+        "tweetCount":"30k Tweets"
+    },
+    {
+        "header":"Trending In World",
+        "text":"ICC World Cup",
+        "tweetCount":"1.5M Tweets"
+    }
+]

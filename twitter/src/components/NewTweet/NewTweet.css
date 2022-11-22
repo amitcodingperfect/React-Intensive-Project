@@ -1,0 +1,11 @@
+
+
+.tweet-btn{
+    margin-top: 24px;
+    width: 180px;
+    padding: 4px;
+    background-color: rgb(54, 54, 203);
+    color: white;
+    border: 1px solid  rgb(54, 54, 203);
+    border-radius: 25px;
+}

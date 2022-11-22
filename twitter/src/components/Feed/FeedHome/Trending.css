@@ -1,0 +1,17 @@
+
+.header-small{
+    font-size: small;
+}
+
+.text{
+    font-size: large;
+    font-weight: bold;
+}
+p{
+    margin-bottom: 3px !important;
+}
+
+.Trending-name{
+    padding: 12px;
+    margin: 6px 0;
+}
