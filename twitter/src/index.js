@@ -8,6 +8,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Home from './components/Pages/Home/Home';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import LoginOption from './components/LoginOption/LoginOption';
+import Signup from './components/Signup/Signup';
+import SignupOption from './components/SignupOption';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -18,6 +20,8 @@ root.render(
   <Route path="/" element={<Home/>}></Route>
   <Route  path="/profile" element={<Profile/>}></Route>
   <Route  path="/login" element={<LoginOption/>}></Route>
+  <Route  path="/Signup" element={<Signup/>}></Route>
+  <Route  path="/SignupOption" element={<SignupOption/>}></Route>
   
   </Routes>
   </React.StrictMode>

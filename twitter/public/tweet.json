@@ -4,7 +4,7 @@
     "text":"I had a great meeting with @starkwatzinger",
     "handle":"@billgates",
     "likes": "220.5k",
-    "retweets":"150k",
+    "count":"150k",
     "comments":"48",
     "Share":"125"
     
@@ -16,7 +16,7 @@
     "text":"If I had a dollar for every time someone asked me if Trump’s account is going to be deactivated on my platform, Meta would be minting money!",
     "handle":"@arshisalma_alvi",
     "likes": "56.5k",
-    "retweets":"100k",
+    "count":"100k",
     "comments":"514",
     "Share":"105"
     
@@ -28,7 +28,7 @@
     "text":"FTX meltdown ransack being tracked in real-time twitter SBF is ineffective altruism,but they thought he was saying he was in effective altruism. Easy misunderstanding.",
     "handle":"@elonmusk",
     "likes": "78.5k",
-    "retweets":"150k",
+    "count":"150k",
     "comments":"5.7k",
     "Share":"115"
     
@@ -40,7 +40,7 @@
     "text":"#IWillSmileTodayBecause of her😍😍" ,
     "handle":"@zuckerbergmark",
     "likes": "62.5k",
-    "retweets":"120k",
+    "count":"120k",
     "comments":"7k",
     "share":"162"
     
@@ -52,7 +52,7 @@
     "text":"While the last steps are proving to be the toughest",
     "handle":"@billgates",
     "likes": "56.5k",
-    "retweets":"170k",
+    "count":"170k",
     "comments":"8.8k",
     "share":"102"
     
@@ -63,7 +63,7 @@
     "text":"A proud husband and father.",
     "handle":"@viratkohli",
     "likes":"36.5k",
-    "retweets":"300k",
+    "count":"300k",
     "comments":"11k"
 }
 ]
